@@ -60,6 +60,14 @@ You are required to create a **Task Management App** with the following function
 
 ---
 
+---
+
+## ** Output **
+
+![Sample Image](create.png)
+---
+
+
 ## **Evaluation Criteria**
 
 - **Architecture**: Proper implementation of MVVM architecture.
