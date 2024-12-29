@@ -63,8 +63,20 @@ You are required to create a **Task Management App** with the following function
 ---
 
 ## ** Output **
-
+1 Create Task File
 ![Sample Image](creation.png)
+
+2 Edit Task File
+![Sample Image](edit.png)
+
+3 List Task File
+![Sample Image](List.png)
+
+4 Search Task File
+![Sample Image](searching.png)
+
+5 Theme Mode
+![Sample Image](theme.png)
 ---
 
 
