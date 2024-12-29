@@ -73,7 +73,7 @@ You are required to create a **Task Management App** with the following function
 ![Sample Image](List.png)
 
 4 Search Task File
-![Sample Image](searching.png)
+![Sample Image](searching .png)
 
 5 Theme Mode
 ![Sample Image](theme.png)
