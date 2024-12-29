@@ -81,7 +81,7 @@ You are required to create a **Task Management App** with the following function
 
 
 
-![Sample Image](searching .png)
+![Sample Image](searching.png)
 
 
 
